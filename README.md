@@ -2,6 +2,8 @@
 
 ![](https://blogdozouza.files.wordpress.com/2023/06/portfolio_new.png)
 
+[Link teste](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets)
+
 # Portfólio de Projetos em Dados (Buscando valor em Dados)
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
